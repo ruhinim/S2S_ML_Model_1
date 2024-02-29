@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Collected</folder>
+	<filename>0.954b8976-d487-11ee-a4e7-b660cc407d65.jpg</filename>
+	<path>/Users/binukhewage/SDGP/S2S_ML_Model_1/S2S/Data/Collected/0.954b8976-d487-11ee-a4e7-b660cc407d65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>368</ymin>
+			<xmax>1115</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
