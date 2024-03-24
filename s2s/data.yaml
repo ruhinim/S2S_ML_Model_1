@@ -1,0 +1,14 @@
+path: C:\s2s\Denawa
+names: ['Denawa']
+train:
+  type: 'yolo'
+  path: images\train
+  labels: labels\train
+  img_size: 640
+  augment: true
+val:
+  type: 'yolo'
+  path: images\validate
+  labels: labels\validate
+  img_size: 640
+  augment: false

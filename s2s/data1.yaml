@@ -1,0 +1,6 @@
+path: C:/s2s/Dataset
+train: images/Train
+val: images/Validate
+
+names:
+  0: Denawa
